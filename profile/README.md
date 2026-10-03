@@ -1,5 +1,8 @@
 ## Introduction
 
-Hi there! We're a two men game development operation, we originally started this a few years back as a portfolio thing but C*VID and C-pital ruined our plans, then we decided to take Sparrowworks up to new horizons, and we asked you to wait and stay tuned for our "next big release" but unfortunately... life happened, again and we couldn't work on said "big release". nowadays we're just doing this as a hobby.
+Hi there! We are a small, two men game development team which specializes in 2D games made in the Godot Engine. Originally, this was meant to be a portfolio only thing, however we quickly decided to treat this more seriously and start developing more new games and fullfiling our dreams in the process. We hope you will stay tuned with us for more of our releases!
 
-If you wanna know more about us, visit our [About us](https://sparrowworks.github.io/about/) page And please check out our various open source projects! Thank you we <3 you.
+Check out our all released games [here](https://sparrowworks.itch.io/)!
+<br>
+If you want to know even more about us, visit our [About us](https://sparrowworks.github.io/about/) page here. Thank you for stopping by!
+
